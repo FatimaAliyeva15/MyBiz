@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\bin\Debug\net7.0\MyBiz_Core.deps.json
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\bin\Debug\net7.0\MyBiz_Core.dll
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\bin\Debug\net7.0\MyBiz_Core.pdb
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\MyBiz_Core.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\MyBiz_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\MyBiz_Core.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\MyBiz_Core.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\MyBiz_Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\MyBiz_Core.dll
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\refint\MyBiz_Core.dll
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\MyBiz_Core.pdb
+C:\Users\Asus\source\repos\MyBiz\MyBiz_Core\obj\Debug\net7.0\ref\MyBiz_Core.dll

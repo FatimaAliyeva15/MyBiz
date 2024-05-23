@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\MyBiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|c:\\users\\asus\\source\\repos\\mybiz\\mybiz\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|solutionrelative:mybiz\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|c:\\users\\asus\\source\\repos\\mybiz\\mybiz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|solutionrelative:mybiz\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|c:\\users\\asus\\source\\repos\\mybiz\\mybiz\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|solutionrelative:mybiz\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|c:\\users\\asus\\source\\repos\\mybiz\\mybiz\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|solutionrelative:mybiz\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|c:\\users\\asus\\source\\repos\\mybiz\\mybiz\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|solutionrelative:mybiz\\areas\\admin\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|c:\\users\\asus\\source\\repos\\mybiz\\mybiz\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|solutionrelative:mybiz\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|c:\\users\\asus\\source\\repos\\mybiz\\mybiz\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76B0BB7F-7A16-488C-8073-186D0F5473B5}|MyBiz\\MyBiz.csproj|solutionrelative:mybiz\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyBiz\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyBiz\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:26:07.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MyBiz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MyBiz\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:24:30.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "MyBiz\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "MyBiz\\Areas\\Admin\\Controllers\\TeamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:24:13.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MyBiz\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MyBiz\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T11:20:05.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "MyBiz\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "MyBiz\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:03:13.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MyBiz\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MyBiz\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAwEYAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T10:55:09.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MyBiz\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MyBiz\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowDkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:49:24.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
