@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj": {
+    "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj",
         "projectName": "MyBiz_Core",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Core\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

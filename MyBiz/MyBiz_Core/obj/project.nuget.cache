@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jTzKM30Yezp22DzREKXbEfyKnqW3Qag5abJGLpwLZ+PLsetyKHOTPETi2ahLjKhWUWynBeuTGaOAToP22RrfLQ==",
+  "dgSpecHash": "zzZx54poxK8r0dnG6KSK+Tze6uLoSV4BM1lM39tYrhSSEhYRQSvXKFPf/YO6XVU/zz27NZnra0jNT4Ql0E9tdw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Core\\MyBiz_Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.19\\microsoft.aspnetcore.cryptography.internal.7.0.19.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.19\\microsoft.aspnetcore.cryptography.keyderivation.7.0.19.nupkg.sha512",

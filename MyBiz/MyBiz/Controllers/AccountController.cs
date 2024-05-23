@@ -31,14 +31,38 @@ namespace MyBiz.Controllers
 
         public IActionResult Register()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("LogOut");
+            }
             return View();
         }
 
         [HttpPost]
         public async Task<IActionResult> Register(RegisterDTO registerDTO)
         {
-            if(!ModelState.IsValid)
+            if (User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("LogOut");
+            }
+
+            if (!ModelState.IsValid)
                 return View();
+
+            var existUserName = await _userManager.FindByNameAsync(registerDTO.UserName);
+            var existEmail = await _userManager.FindByEmailAsync(registerDTO.Email);
+
+            if(existUserName != null)
+            {
+                ModelState.AddModelError("", "cannot be the same username");
+                return View();
+            }
+
+            if(existEmail != null)
+            {
+                ModelState.AddModelError("", "cannot be the same email");
+                return View();
+            }
 
             AppUser user = new AppUser()
             {
@@ -65,13 +89,22 @@ namespace MyBiz.Controllers
 
         public IActionResult Login()
         {
+            if (User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("LogOut");
+            }
             return View();
         }
 
         [HttpPost]
         public async Task<IActionResult> Login(LoginDTO loginDTO)
         {
-            if(!ModelState.IsValid)
+            if (User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("LogOut");
+            }
+
+            if (!ModelState.IsValid)
                 return View();
 
             AppUser user;

@@ -2993,11 +2993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Business\\MyBiz_Business.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Business\\MyBiz_Business.csproj",
       "projectName": "MyBiz_Business",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Business\\MyBiz_Business.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Business\\MyBiz_Business.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Business\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3015,8 +3015,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Data\\MyBiz_Data.csproj": {
-              "projectPath": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Data\\MyBiz_Data.csproj"
+            "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Data\\MyBiz_Data.csproj": {
+              "projectPath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Data\\MyBiz_Data.csproj"
             }
           }
         }

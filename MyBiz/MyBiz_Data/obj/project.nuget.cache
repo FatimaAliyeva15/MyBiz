@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n7xFUb5SFAfSphsBg0OH6F7sI4BkKK3oHFWajDpPaAhN/R8qfdhO9YNUk4Oy3JQT+mMeL/XLHkfjOdyAiuWjAA==",
+  "dgSpecHash": "ve2tqX1Mr5g63LVhgmM1foFAKgULAYXcEsR/WJYyWxFaXYnr0NMFHQ8mXkcmZYSMAxZgrVcJ40oNGd79Jrh8fQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\source\\repos\\MyBiz\\MyBiz_Data\\MyBiz_Data.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\TASK\\MVCProject_MyBiz\\MyBiz\\MyBiz_Data\\MyBiz_Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
